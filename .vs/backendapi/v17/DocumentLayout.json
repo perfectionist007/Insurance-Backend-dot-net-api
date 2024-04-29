@@ -1,0 +1,173 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "H:\\prac\\demo_dotnetapi_scratch\\backendapi\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|H:\\prac\\demo_dotnetapi_scratch\\backendapi\\backendapi\\Migrations\\20240429151955_migration-two.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:backendapi\\Migrations\\20240429151955_migration-two.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|H:\\prac\\demo_dotnetapi_scratch\\backendapi\\backendapi\\Migrations\\20240429151827_initial-migration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:backendapi\\Migrations\\20240429151827_initial-migration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{80F71D69-073E-4766-8B7D-5ED2078AECB8}|backendapi\\backendapi.csproj|h:\\prac\\demo_dotnetapi_scratch\\backendapi\\backendapi\\core\\dtos\\applicant\\applicantgetdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{80F71D69-073E-4766-8B7D-5ED2078AECB8}|backendapi\\backendapi.csproj|solutionrelative:backendapi\\core\\dtos\\applicant\\applicantgetdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{80F71D69-073E-4766-8B7D-5ED2078AECB8}|backendapi\\backendapi.csproj|h:\\prac\\demo_dotnetapi_scratch\\backendapi\\backendapi\\controllers\\applicantcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{80F71D69-073E-4766-8B7D-5ED2078AECB8}|backendapi\\backendapi.csproj|solutionrelative:backendapi\\controllers\\applicantcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{80F71D69-073E-4766-8B7D-5ED2078AECB8}|backendapi\\backendapi.csproj|h:\\prac\\demo_dotnetapi_scratch\\backendapi\\backendapi\\core\\entities\\applicant.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{80F71D69-073E-4766-8B7D-5ED2078AECB8}|backendapi\\backendapi.csproj|solutionrelative:backendapi\\core\\entities\\applicant.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{80F71D69-073E-4766-8B7D-5ED2078AECB8}|backendapi\\backendapi.csproj|h:\\prac\\demo_dotnetapi_scratch\\backendapi\\backendapi\\core\\dtos\\applicant\\applicantcreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{80F71D69-073E-4766-8B7D-5ED2078AECB8}|backendapi\\backendapi.csproj|solutionrelative:backendapi\\core\\dtos\\applicant\\applicantcreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{80F71D69-073E-4766-8B7D-5ED2078AECB8}|backendapi\\backendapi.csproj|h:\\prac\\demo_dotnetapi_scratch\\backendapi\\backendapi\\core\\enums\\prioritylevel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{80F71D69-073E-4766-8B7D-5ED2078AECB8}|backendapi\\backendapi.csproj|solutionrelative:backendapi\\core\\enums\\prioritylevel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{80F71D69-073E-4766-8B7D-5ED2078AECB8}|backendapi\\backendapi.csproj|h:\\prac\\demo_dotnetapi_scratch\\backendapi\\backendapi\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{80F71D69-073E-4766-8B7D-5ED2078AECB8}|backendapi\\backendapi.csproj|solutionrelative:backendapi\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{80F71D69-073E-4766-8B7D-5ED2078AECB8}|backendapi\\backendapi.csproj|h:\\prac\\demo_dotnetapi_scratch\\backendapi\\backendapi\\controllers\\policycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{80F71D69-073E-4766-8B7D-5ED2078AECB8}|backendapi\\backendapi.csproj|solutionrelative:backendapi\\controllers\\policycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "20240429151955_migration-two.cs",
+              "DocumentMoniker": "H:\\prac\\demo_dotnetapi_scratch\\backendapi\\backendapi\\Migrations\\20240429151955_migration-two.cs",
+              "RelativeDocumentMoniker": "backendapi\\Migrations\\20240429151955_migration-two.cs",
+              "ToolTip": "H:\\prac\\demo_dotnetapi_scratch\\backendapi\\backendapi\\Migrations\\20240429151955_migration-two.cs",
+              "RelativeToolTip": "backendapi\\Migrations\\20240429151955_migration-two.cs",
+              "ViewState": "AQIAAB8AAAAAAAAAAAAgwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-29T15:19:55.359Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "20240429151827_initial-migration.cs",
+              "DocumentMoniker": "H:\\prac\\demo_dotnetapi_scratch\\backendapi\\backendapi\\Migrations\\20240429151827_initial-migration.cs",
+              "RelativeDocumentMoniker": "backendapi\\Migrations\\20240429151827_initial-migration.cs",
+              "ToolTip": "H:\\prac\\demo_dotnetapi_scratch\\backendapi\\backendapi\\Migrations\\20240429151827_initial-migration.cs",
+              "RelativeToolTip": "backendapi\\Migrations\\20240429151827_initial-migration.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-29T15:18:27.401Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ApplicantGetDto.cs",
+              "DocumentMoniker": "H:\\prac\\demo_dotnetapi_scratch\\backendapi\\backendapi\\Core\\Dtos\\Applicant\\ApplicantGetDto.cs",
+              "RelativeDocumentMoniker": "backendapi\\Core\\Dtos\\Applicant\\ApplicantGetDto.cs",
+              "ToolTip": "H:\\prac\\demo_dotnetapi_scratch\\backendapi\\backendapi\\Core\\Dtos\\Applicant\\ApplicantGetDto.cs",
+              "RelativeToolTip": "backendapi\\Core\\Dtos\\Applicant\\ApplicantGetDto.cs",
+              "ViewState": "AQIAAAQAAAAAAAAAAAAhwAoAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-29T15:09:42.347Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ApplicantCreateDto.cs",
+              "DocumentMoniker": "H:\\prac\\demo_dotnetapi_scratch\\backendapi\\backendapi\\Core\\Dtos\\Applicant\\ApplicantCreateDto.cs",
+              "RelativeDocumentMoniker": "backendapi\\Core\\Dtos\\Applicant\\ApplicantCreateDto.cs",
+              "ToolTip": "H:\\prac\\demo_dotnetapi_scratch\\backendapi\\backendapi\\Core\\Dtos\\Applicant\\ApplicantCreateDto.cs",
+              "RelativeToolTip": "backendapi\\Core\\Dtos\\Applicant\\ApplicantCreateDto.cs",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAhwAgAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-29T15:09:38.157Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Applicant.cs",
+              "DocumentMoniker": "H:\\prac\\demo_dotnetapi_scratch\\backendapi\\backendapi\\Core\\Entities\\Applicant.cs",
+              "RelativeDocumentMoniker": "backendapi\\Core\\Entities\\Applicant.cs",
+              "ToolTip": "H:\\prac\\demo_dotnetapi_scratch\\backendapi\\backendapi\\Core\\Entities\\Applicant.cs",
+              "RelativeToolTip": "backendapi\\Core\\Entities\\Applicant.cs",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAhwAgAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-29T15:09:24.088Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "PriorityLevel.cs",
+              "DocumentMoniker": "H:\\prac\\demo_dotnetapi_scratch\\backendapi\\backendapi\\Core\\Enums\\PriorityLevel.cs",
+              "RelativeDocumentMoniker": "backendapi\\Core\\Enums\\PriorityLevel.cs",
+              "ToolTip": "H:\\prac\\demo_dotnetapi_scratch\\backendapi\\backendapi\\Core\\Enums\\PriorityLevel.cs",
+              "RelativeToolTip": "backendapi\\Core\\Enums\\PriorityLevel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-29T13:00:08.581Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "PolicyController.cs",
+              "DocumentMoniker": "H:\\prac\\demo_dotnetapi_scratch\\backendapi\\backendapi\\Controllers\\PolicyController.cs",
+              "RelativeDocumentMoniker": "backendapi\\Controllers\\PolicyController.cs",
+              "ToolTip": "H:\\prac\\demo_dotnetapi_scratch\\backendapi\\backendapi\\Controllers\\PolicyController.cs",
+              "RelativeToolTip": "backendapi\\Controllers\\PolicyController.cs",
+              "ViewState": "AQIAACEAAAAAAAAAAAAgwCUAAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-29T12:37:36.627Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ApplicantController.cs",
+              "DocumentMoniker": "H:\\prac\\demo_dotnetapi_scratch\\backendapi\\backendapi\\Controllers\\ApplicantController.cs",
+              "RelativeDocumentMoniker": "backendapi\\Controllers\\ApplicantController.cs",
+              "ToolTip": "H:\\prac\\demo_dotnetapi_scratch\\backendapi\\backendapi\\Controllers\\ApplicantController.cs",
+              "RelativeToolTip": "backendapi\\Controllers\\ApplicantController.cs",
+              "ViewState": "AQIAAB0AAAAAAAAAAAAvwCgAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-29T12:32:12.697Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "CategoryController.cs",
+              "DocumentMoniker": "H:\\prac\\demo_dotnetapi_scratch\\backendapi\\backendapi\\Controllers\\CategoryController.cs",
+              "RelativeDocumentMoniker": "backendapi\\Controllers\\CategoryController.cs",
+              "ToolTip": "H:\\prac\\demo_dotnetapi_scratch\\backendapi\\backendapi\\Controllers\\CategoryController.cs",
+              "RelativeToolTip": "backendapi\\Controllers\\CategoryController.cs",
+              "ViewState": "AQIAABwAAAAAAAAAAAA7wC4AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-29T11:44:41.398Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
